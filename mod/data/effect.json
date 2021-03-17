@@ -1,0 +1,200 @@
+[
+    {
+        "acronyme": "adaehpreco",
+        "name": "Long for Peace",
+        "description": "After defeating an enemy, instantly recovers HP by 15% (CD 15s)",
+        "id": 1
+    },
+    {
+        "acronyme": "adaepamp",
+        "name": "Goosebumps",
+        "description": "After defeating an enemy, increase physcial amplification by 2000 for 7s",
+        "id": 2
+    },
+    {
+        "acronyme": "adaecsmup",
+        "name": "Small and Adorable",
+        "description": "After defeating an enemy, combat mouvement speed increase",
+        "id": 3
+    },
+    {
+        "acronyme": "adaemamp",
+        "name": "Too Cool",
+        "description": "After defeating an enemy, increase magique amplification by 2000 for 7s",
+        "id": 4
+    },
+    {
+        "acronyme": "adaempup",
+        "name": "A Color You Can't Resist",
+        "description": "After defeating an enemy, instantly recovers SP by 20% (CD 15s)",
+        "id": 5
+    },
+    {
+        "acronyme": "adaecfup",
+        "name": "Sparking",
+        "description": "After defeating an enemy, increase crit factor 8 for 15s",
+        "id": 6
+    },
+    {
+        "acronyme": "adaepmamp",
+        "name": "The Demon Itself",
+        "description": "After defeating an enemy, increase physcal and magique amplification by 1000 for 7s",
+        "id": 7
+    },
+    {
+        "acronyme": "adaehpmpup",
+        "name": "Let me See Your Face",
+        "description": "After defeating an enemy, instantly recovers HP and SP by 10% (CD 15s)",
+        "id": 8
+    },
+    {
+        "acronyme": "gob",
+        "name": "Follow Golbins",
+        "description": "After resurrection, invicible for 3s",
+        "id": 9
+    },
+    {
+        "acronyme": "hp40presd",
+        "name": "Emotionless",
+        "description": "Activate when HP% or lower, increase physical resistance by 1400 for 5s (60s CD)",
+        "id": 10
+    },
+    {
+        "acronyme": "hp40mres",
+        "name": "Nothing Special",
+        "description": "Activate when 40% HP or lower, increase magical resistance by 1400 for 5s (60s CD)",
+        "id": 11
+    },
+    {
+        "acronyme": "ch30pamp",
+        "name": "Fly Like a Bird Sting Like a Bee",
+        "description": "When Critical Hit (30%),  increase physical resistance by 700 for 5s (60s CD)",
+        "id": 12
+    },
+    {
+        "acronyme": "ch30mamp",
+        "name": "Unwanted Predators",
+        "description": "When Critical Hit (30%),  increase magical resistance by 700 for 5s (60s CD)",
+        "id": 13
+    },
+    {
+        "acronyme": "hp50pvp",
+        "name": "Bluish Blue",
+        "description": "Activate when 50% HP or lower, PvP Defense",
+        "id": 14
+    },
+    {
+        "acronyme": "knocked",
+        "name": "That's It!",
+        "description": "Activate after hit on KD, stag or stun, damage  ",
+        "id": 15
+    },
+    {
+        "acronyme": "start",
+        "name": "Running Hot and Cold",
+        "description": "Activate when entering combat, increase crit factor 12 for 10 s (60s CD)",
+        "id": 16
+    },
+    {
+        "acronyme": "ch30mpamp",
+        "name": "At Last United",
+        "description": "When Critical Hit (30%), increase physical and magical amplification by 3000 for 5s (180s CD)",
+        "id": 17
+    },
+    {
+        "acronyme": "ch30mpres",
+        "name": "War and Piece",
+        "description": "When Critical Hit (30%), increase physical and magical resistance by 3000 for 5s (180s CD)",
+        "id": 18
+    },
+    {
+        "acronyme": "ch30mpresdrag",
+        "name": "Power Hungry",
+        "description": "When Critical Hit (30%), increase physical and magical resistance by 1500 for 5s (180s CD)",
+        "id": 19
+    },
+    {
+        "acronyme": "ch30mpampdrag",
+        "name": "A Danger to All",
+        "description": "When Critical Hit (30%), increase physical and magical amplification by 1500 for 5s (180s CD)",
+        "id": 20
+    },
+    {
+        "acronyme": "ch30mpcritpow",
+        "name": "Kill to Start",
+        "description": "When Critical Hit (30%), increase physical and magical crit power by 0.02 for 5s (180s CD)",
+        "id": 21
+    },
+    {
+        "acronyme": "cat",
+        "name": "Piscivore",
+        "description": "When Critical Hit (30%), increase physical and magical crit power by 0.01 for 5s (60s CD)",
+        "id": 22
+    },
+    {
+        "acronyme": "giant",
+        "name": "Immense",
+        "description": "When Critical Hit (30%), increase physical and magical crit power by 0.02 for 5s (180s CD)",
+        "id": 23
+    },
+    {
+        "acronyme": "argon",
+        "name": "Akalath Raid Group",
+        "description": "When Critical Hit (30%), increase physical and magical crit power by 0.02 for 5s (180s CD)",
+        "id": 24
+    },
+    {
+        "acronyme": "dragon",
+        "name": "Nyah, Nyah!",
+        "description": "When Critical Hit (30%), increase physical and magical crit power by 0.02 for 5s (180s CD)",
+        "id": 25
+    },
+    {
+        "acronyme": "god",
+        "name": "In God's Name",
+        "description": "When Critical Hit (30%), increase physical and magical crit power by 0.02 for 5s (180s CD)",
+        "id": 26
+    },
+    {
+        "acronyme": "faerie",
+        "name": "A Fairy ?",
+        "description": "When Critical Hit (30%), increase physical and magical crit power by 0.02 for 5s (180s CD)",
+        "id": 27
+    },
+    {
+        "acronyme": "azart",
+        "name": "Azart Special Forces Officer",
+        "description": "When Critical Hit (30%), increase physical and magical crit power by 0.02 for 5s (180s CD)",
+        "id": 28
+    },
+    {
+        "acronyme": "magicalC",
+        "name": "Pick 'n' Mix",
+        "description": "When Critical Hit (30%), increase physical and magical crit power by 0.02 for 5s (180s CD)",
+        "id": 29
+    },
+    {
+        "acronyme": "beast",
+        "name": "Wildlife Protection Squad",
+        "description": "When Critical Hit (30%), increase physical and magical crit power by 0.02 for 5s (180s CD)",
+        "id": 30
+    },
+    {
+        "acronyme": "magicalD",
+        "name": "Study of Magic",
+        "description": "When Critical Hit (30%), increase physical and magical crit power by 0.02 for 5s (180s CD)",
+        "id": 31
+    },
+    {
+        "acronyme": "demon",
+        "name": "Diabolical",
+        "description": "When Critical Hit (30%), increase physical and magical crit power by 0.02 for 5s (180s CD)",
+        "id": 32
+    },
+    {
+        "acronyme": "ancestor",
+        "name": "The Living",
+        "description": "When Critical Hit (30%), increase physical and magical crit power by 0.02 for 5s (180s CD)",
+        "id": 33
+    }
+]

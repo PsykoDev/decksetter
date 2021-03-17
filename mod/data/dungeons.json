@@ -1,0 +1,1212 @@
+{
+  "9780": {
+    "fr": "Porte souterraine de Velika",
+    "en": "Velik's Hold (5-Person)",
+    "ger": "Velika-Untergrundtor"
+  },
+  "9095": {
+    "fr": "Epreuve de la Flamme",
+    "en": "Crucible of Flame",
+    "ger": "Flammentiegel"
+  },
+  "2502": {
+    "fr": "Campagne, étape 2",
+    "en": "Campaign Stage 2",
+    "ger": "Kampagne – Stage 2"
+  },
+  "3102": {
+    "fr": "Résidence des commandants",
+    "en": "Draakon Arena",
+    "ger": "Kommandantenstätte"
+  },
+  "9720": {
+    "fr": "Abîme d'Antaros",
+    "en": "Antaroth's Abyss",
+    "ger": "Antaros-Abgrund"
+  },
+  "9811": {
+    "fr": "L'Abcès (7 personnes)",
+    "en": "The Abscess (7-Person)",
+    "ger": "Der Abszess (7er-Schlachtgruppe)"
+  },
+  "3023": {
+    "fr": "Zone secrète de la Forteresse de Berak",
+    "en": "Akalath Quarantine",
+    "ger": "Geheimzone der Berakfestung"
+  },
+  "9803": {
+    "fr": "Traverse du Nexus",
+    "en": "Nexus Traverse",
+    "ger": "Nexustraverse"
+  },
+  "9021": {
+    "fr": "Tunnel caché",
+    "en": "Hidden Tunnel",
+    "ger": "Verborgener Tunnel"
+  },
+  "9039": {
+    "fr": "Site d'embuscade de la caravane",
+    "en": "Caravan Ambush Site",
+    "ger": "Ort des Karawanenüberfalls"
+  },
+  "9775": {
+    "fr": "Nid de Kelsaik (difficile)",
+    "en": "Kelsaik's Nest (Hard)",
+    "ger": "Kelsaiks Nest (schwierig)"
+  },
+  "9080": {
+    "fr": "Sceau d'Adstringo",
+    "en": "Sigil Adstringo",
+    "ger": "Siegel von Adstringo"
+  },
+  "9001": {
+    "fr": "Résidence de Samael",
+    "en": "Samael's Residence",
+    "ger": "Samaels Sitz"
+  },
+  "2503": {
+    "fr": "Campagne, étape 3 : cauchemar dans la Forteresse de Raqnan",
+    "en": "Campaign Stage 3 - Nightmare of Trellum Consurgo",
+    "ger": "Kampagne – Stage 3 - Albtraum der Raqnanfestung"
+  },
+  "9045": {
+    "fr": "Montagne Prèmebleu",
+    "en": "Bluefirst Mountain",
+    "ger": "Blauspitze"
+  },
+  "2101": {
+    "fr": "Couveuse des larves",
+    "en": "Larvae Hatchery",
+    "ger": "Larven-Brutstätte"
+  },
+  "3009": {
+    "fr": "Tour d'ébène (solo)",
+    "en": "Ebon Tower (Solo)",
+    "ger": "Ebenholzturm (Einzelspieler)"
+  },
+  "9062": {
+    "fr": "Villa du bouffon",
+    "en": "Jester's Villa",
+    "ger": "Villa des Narren"
+  },
+  "9006": {
+    "fr": "Authentique Labyrinthe de la Terreur",
+    "en": "Genuine Throne of Nightmares",
+    "ger": "Labyrinth des Schreckens"
+  },
+  "9126": {
+    "fr": "Couveuse de Petre",
+    "en": "Pit of Petrax",
+    "ger": "Petre-Brutstätte"
+  },
+  "9725": {
+    "fr": "Temple de Balder (difficile)",
+    "en": "Balder's Temple (Hard)",
+    "ger": "Balders Tempel (schwierig)"
+  },
+  "9793": {
+    "fr": "Repaire d'Akasha (difficile)",
+    "en": "Akasha's Hideout (Hard)",
+    "ger": "Akashas Versteck (schwierig)"
+  },
+  "9794": {
+    "fr": "Station de recherche de Syruk",
+    "en": "Thaumetal Refinery",
+    "ger": "Syruks Forschungsstation"
+  },
+  "9735": {
+    "fr": "Hangar du RK-9",
+    "en": "RK-9 Kennel",
+    "ger": "RK-9 Hangar"
+  },
+  "9005": {
+    "fr": "Villa du bouffon",
+    "en": "Jester's Villa",
+    "ger": "Villa des Narren"
+  },
+  "9820": {
+    "fr": "Camp secret de la résistance",
+    "en": "Resistance Secret Camp",
+    "ger": "Geheimes Widerstandslager"
+  },
+  "2100": {
+    "fr": "Bâtiment dragon",
+    "en": "Akalath Quarantine",
+    "ger": "Drachengebäude"
+  },
+  "9509": {
+    "fr": "Salle de banquet paisible de Velika",
+    "en": "Velika Banquet Redux",
+    "ger": "Friedliche Velika-Banketthalle"
+  },
+  "9511": {
+    "fr": "L'Abcès",
+    "en": "The Abscess (7-Person)",
+    "ger": "Der Abszess"
+  },
+  "9920": {
+    "fr": "Abîme d'Antaros (difficile)",
+    "en": "Antaroth's Abyss (Hard)",
+    "ger": "Antaros-Abgrund (schwierig)"
+  },
+  "9052": {
+    "fr": "Carnaval du Sang",
+    "en": "Banquet of Blood",
+    "ger": "Bankett des Blutes"
+  },
+  "9770": {
+    "fr": "Ruines de Lachelitas (facile)",
+    "en": "Ruinous Manor",
+    "ger": "Lachelitas-Ruine (leicht)"
+  },
+  "9008": {
+    "fr": "Laboratoire de Malachai",
+    "en": "Malachai's Lab",
+    "ger": "Malachais Labor"
+  },
+  "9151": {
+    "fr": "Terres de Recherche sur le Noctenium",
+    "en": "Noctenium Research Grounds",
+    "ger": "Nokteniumforschungsgebiet"
+  },
+  "3029": {
+    "fr": "Guide : abîme d'Antaros (difficile)",
+    "en": "Antaroth's Abyss (Hard) (Guide)",
+    "ger": "Hilfe: Antaros-Abgrund (schwierig)"
+  },
+  "9681": {
+    "fr": "Rêve de Velik",
+    "en": "Velik's Dream",
+    "ger": "Veliks Traum"
+  },
+  "9777": {
+    "fr": "Les Canaux (3 personnes)",
+    "en": "Channelworks (3-Person)",
+    "ger": "Die Kanäle (3er-Schlachtgruppe)"
+  },
+  "9825": {
+    "fr": "Temple de Balder (1 personne)",
+    "en": "Balder's Temple (Solo)",
+    "ger": "Balders Tempel (Einzelspieler)"
+  },
+  "9823": {
+    "fr": "Croiseur céleste l'Intrépide",
+    "en": "Sky Cruiser Intrepid",
+    "ger": "Himmelskreuzer Kühnheit"
+  },
+  "3104": {
+    "fr": "Rêve paralytique de Rukmia (facile)",
+    "en": "Catalepticon",
+    "ger": "Rukmias Traumparalyse (leicht)"
+  },
+  "3010": {
+    "fr": "Nid de Kelsaik (solo)",
+    "en": "Kelsaik's Nest (Solo)",
+    "ger": "Kelsaiks Nest (Einzelspieler)"
+  },
+  "9092": {
+    "fr": "Donation de Dagon",
+    "en": "Dagon's Chantry",
+    "ger": "Dagons Kantorei"
+  },
+  "9079": {
+    "fr": "Ascension de Saravash",
+    "en": "Saravash's Ascent",
+    "ger": "Aufstieg von Saravash"
+  },
+  "3016": {
+    "fr": "Forteresse de Lilitas (donjon des épreuves)",
+    "en": "Lilith's Trial",
+    "ger": "Lilitasfestung (Dungeon der Prüfungen)"
+  },
+  "9038": {
+    "fr": "Jungle mystérieuse",
+    "en": "Mysterious Jungle",
+    "ger": "Geheimnisvoller Dschungel"
+  },
+  "3020": {
+    "fr": "Écaille dorée",
+    "en": "Sea of Honor",
+    "ger": "Goldschuppe"
+  },
+  "9724": {
+    "fr": "Temple de Kaprima (difficile)",
+    "en": "Fane of Kaprima (Hard)",
+    "ger": "Tempel von Kaprima (schwierig)"
+  },
+  "9782": {
+    "fr": "Hall souterrain de Lian",
+    "en": "Grotto of Lost Souls",
+    "ger": "Lians Untergrundhalle"
+  },
+  "9082": {
+    "fr": "Temple de la Témérité",
+    "en": "Temple of Temerity",
+    "ger": "Tempel der Verwegenheit"
+  },
+  "9011": {
+    "fr": "Atelier de Muhrak",
+    "en": "Muhrak's Workshop",
+    "ger": "Muhraks Werkstätte"
+  },
+  "9032": {
+    "fr": "Labyrinthe d'or (donjon des épreuves)",
+    "en": "Baracos' Trial",
+    "ger": "Goldenes Labyrinth (Dungeon der Prüfungen)"
+  },
+  "9076": {
+    "fr": "Labyrinthe de la Terreur",
+    "en": "Labyrinth of Terror",
+    "ger": "Labyrinth des Schreckens"
+  },
+  "9026": {
+    "fr": "Corpus argon",
+    "en": "Argon Corpus",
+    "ger": "Argonenkorpus"
+  },
+  "3106": {
+    "fr": "Site d'exécution",
+    "en": "Killing Grounds",
+    "ger": "Richtplatz"
+  },
+  "9033": {
+    "fr": "Caverne de Krakatox (difficile, donjon des épreuves)",
+    "en": "Krakatox's Trial",
+    "ger": "Krakatox-Höhle (schwierig, Dungeon der Prüfungen)"
+  },
+  "9916": {
+    "fr": "Croiseur céleste l'Opiniâtre (difficile)",
+    "en": "Sky Cruiser Endeavor (Hard)",
+    "ger": "Himmelskreuzer Sturmflotte (schwierig)"
+  },
+  "9065": {
+    "fr": "Vallée du Crépuscule",
+    "en": "Twilight Valley ",
+    "ger": "Zwielichttal"
+  },
+  "9611": {
+    "fr": "L'Abcès (difficile)",
+    "en": "The Abscess (Hard)",
+    "ger": "Der Abszess (schwierig)"
+  },
+  "9012": {
+    "fr": "Aiguilles des Trois Tours",
+    "en": "Three Towers Spires",
+    "ger": "Turmspitzen der drei Türme"
+  },
+  "3030": {
+    "fr": "Résidence du légat",
+    "en": "Commander’s Residence",
+    "ger": "Legat-Residenz"
+  },
+  "3035": {
+    "fr": "Autel de Velik",
+    "en": "Velik’s Sanctum",
+    "ger": "Veliks Schrein"
+  },
+  "9830": {
+    "fr": "Trône céleste",
+    "en": "Celestial Arena",
+    "ger": "Thron des Himmels"
+  },
+  "3004": {
+    "fr": "Tombe des nécromanciens (solo)",
+    "en": "Necromancer Tomb (Solo)",
+    "ger": "Nekromantenkrypta (Einzelspieler)"
+  },
+  "9983": {
+    "fr": "Forteresse de Ténébris (difficile)",
+    "en": "Dark Reach Citadel (Hard)",
+    "ger": "Tenebrisfestung (schwierig)"
+  },
+  "9044": {
+    "fr": "Temple de Baharr",
+    "en": "Bahaar's Sanctum",
+    "ger": "Bahaars Tempel"
+  },
+  "9801": {
+    "fr": "Traverse du Nexus",
+    "en": "Nexus Traverse",
+    "ger": "Nexustraverse"
+  },
+  "9041": {
+    "fr": "Porte est de Velika",
+    "en": "Velika Eastern Gate",
+    "ger": "Osttor von Velika"
+  },
+  "9783": {
+    "fr": "Forteresse de Ténébris",
+    "en": "Dark Reach Citadel",
+    "ger": "Tenebrisfestung"
+  },
+  "9019": {
+    "fr": "Cour du Sanctum Mysterium",
+    "en": "Sanctum Mysterium Forecourt",
+    "ger": "Vorhof des Sanctum Mysterium"
+  },
+  "9999": {
+    "fr": "Fantômes du passé",
+    "en": "Blast from the Past",
+    "ger": "Dungeonhelden"
+  },
+  "3011": {
+    "fr": "Noyau de Manaya (solo)",
+    "en": "Manaya's Core (Solo)",
+    "ger": "Manayas Herz (Einzelspieler)"
+  },
+  "9506": {
+    "fr": "Salle de banquet de Velika",
+    "en": "Velika Banquet",
+    "ger": "Velika-Banketthalle"
+  },
+  "9055": {
+    "fr": "Gorge vorace (3 personnes)",
+    "en": "Ravenous Gorge (3-Person)",
+    "ger": "Gefräßiger Schlund (3er-Schlachtgruppe)"
+  },
+  "2501": {
+    "fr": "Campagne, étape 1",
+    "en": "Campaign Stage 1",
+    "ger": "Kampagne – Stage 1"
+  },
+  "3101": {
+    "fr": "Nid de Parquina (facile)",
+    "en": "Gossamer Vault",
+    "ger": "Parquinas Nest (leicht)"
+  },
+  "9050": {
+    "fr": "Bord du précipice (difficile) (10 personnes)",
+    "en": "Rift's Edge (Hard)",
+    "ger": "Rand des Abgrunds (schwierig) (10 Spieler)"
+  },
+  "3039": {
+    "fr": "Forum effervescent",
+    "en": "Hub",
+    "ger": "Tummelforum"
+  },
+  "9057": {
+    "fr": "Fournaise d'Archeron (difficile)",
+    "en": "Akeron's Inferno (Hard)",
+    "ger": "Archerons Inferno (schwierig)"
+  },
+  "9023": {
+    "fr": "Repaire de Kutmaschuk",
+    "en": "Kutmaschuk's Hideout",
+    "ger": "Kutmaschuks Versteck"
+  },
+  "9003": {
+    "fr": "Abysses de la Montagne Fyr",
+    "en": "Fyrmount Abyss",
+    "ger": "Fyrkuppenabgrund"
+  },
+  "9873": {
+    "fr": "Tour d'Ebène (1 personne)",
+    "en": "Ebon Tower (Solo)",
+    "ger": "Ebenholzturm (Einzelspieler)"
+  },
+  "9034": {
+    "fr": "Pic de l'effroi (difficile)",
+    "en": "Dreadspire",
+    "ger": "Spitze der Furcht (schwierig)"
+  },
+  "9096": {
+    "fr": "Galerie de Sirjuka",
+    "en": "Sirjuka Gallery",
+    "ger": "Terrassen von Sirjuka"
+  },
+  "2000": {
+    "fr": "Exodor",
+    "en": "Exodor Archipelago",
+    "ger": "Exodor"
+  },
+  "3040": {
+    "fr": "Rêve paralytique de Rukmia (Donjon des épreuves)",
+    "en": "Lumikan's Trial",
+    "ger": "Rukmias Traumparalyse (Dungeon der Prüfungen)"
+  },
+  "9773": {
+    "fr": "Tour d'Ébène (difficile)",
+    "en": "Ebon Tower (Hard)",
+    "ger": "Ebenholzturm (schwierig)"
+  },
+  "9769": {
+    "fr": "Forteresse de Lilitas (facile)",
+    "en": "Lilith's Keep",
+    "ger": "Lilitasfestung (leicht)"
+  },
+  "3032": {
+    "fr": "Zone secrète de la Forteresse de Berak (guide)",
+    "en": "Akalath Quarantine (Guide)",
+    "ger": "Geheimzone der Berakfestung (Hilfe)"
+  },
+  "9061": {
+    "fr": "Ruines des Géants",
+    "en": "Ruin of the Giants",
+    "ger": "Riesenruine"
+  },
+  "9060": {
+    "fr": "Cuirassé de Kalivan (difficile)",
+    "en": "Kalivan's Dreadnaught (Hard)",
+    "ger": "Kalivans Kriegsgaleere (schwierig)"
+  },
+  "9814": {
+    "fr": "Le Caveau d'Oriyn",
+    "en": "The Vault of Oriyn",
+    "ger": "Das Gewölbe von Oriyn"
+  },
+  "9975": {
+    "fr": "Raid de Kelsaik (20 personnes)",
+    "en": "Kelsaik's Raid (20-Person)",
+    "ger": "Kelsaiks Feuersturm (20er-Schlachtgruppe)"
+  },
+  "9020": {
+    "fr": "Arsenal de cultiste",
+    "en": "Cultist's Armory",
+    "ger": "Kultistenwaffenkammer"
+  },
+  "9979": {
+    "fr": "Ascension de Saravash",
+    "en": "Saravash's Ascent",
+    "ger": "Aufstieg von Saravash"
+  },
+  "9935": {
+    "fr": "Hangar du RK-9 (difficile)",
+    "en": "RK-9 Kennel (Hard)",
+    "ger": "RK-9 Hangar (schwierig)"
+  },
+  "9887": {
+    "fr": "Bastion de Lok (1 personne)",
+    "en": "Bastion of Lok (Solo)",
+    "ger": "Bastion Loks (Einzelspieler)"
+  },
+  "9714": {
+    "fr": "Sanctuaire de Velik",
+    "en": "Velik's Sanctuary",
+    "ger": "Premiumgebiet"
+  },
+  "9090": {
+    "fr": "Chemin boisé",
+    "en": "Woodland Path",
+    "ger": "Waldlandpfad"
+  },
+  "3006": {
+    "fr": "Repaire d'Akasha (solo)",
+    "en": "Akasha's Hideout (Solo)",
+    "ger": "Akashas Versteck (Einzelspieler)"
+  },
+  "9879": {
+    "fr": "Ascension de Saravash (1 personne)",
+    "en": "Saravash's Ascent (Solo)",
+    "ger": "Aufstieg von Saravash (Einzelspieler)"
+  },
+  "9091": {
+    "fr": "Autel de Vadoma",
+    "en": "Altar of Vadoma",
+    "ger": "Altar von Vadoma"
+  },
+  "9980": {
+    "fr": "Porte souterraine effondrée de Velika",
+    "en": "Velik's Hold (Hard)",
+    "ger": "Eingestürztes Velika-Untergrundtor"
+  },
+  "9994": {
+    "fr": "Station de recherche de Syruk (difficile)",
+    "en": "Thaumetal Refinery (Hard)",
+    "ger": "Syruks Forschungsstation (schwierig)"
+  },
+  "9766": {
+    "fr": "Flotte en Morceaux",
+    "en": "Shattered Fleet",
+    "ger": "Zerschlagene Flotte"
+  },
+  "9643": {
+    "fr": "Wonderholme",
+    "en": "Wonderholme (10-Person)",
+    "ger": "Wunderholm"
+  },
+  "9087": {
+    "fr": "Bastion de Lok",
+    "en": "Bastion of Lok",
+    "ger": "Bastion Loks"
+  },
+  "3001": {
+    "fr": "Base secrète (solo)",
+    "en": "Bastion of Lok (Solo)",
+    "ger": "Geheime Basis (Einzelspieler)"
+  },
+  "9813": {
+    "fr": "Clairière dérobée (1 personne)",
+    "en": "Ghillieglade (Solo)",
+    "ger": "Tarnlichtung (Einzelspieler)"
+  },
+  "2103": {
+    "fr": "Salle des machines de la Forteresse de Berak",
+    "en": "Black Core Engine Room",
+    "ger": "Maschinenraum der Berakfestung"
+  },
+  "9876": {
+    "fr": "Labyrinthe de la Terreur (1 personne)",
+    "en": "Labyrinth of Terror (Solo)",
+    "ger": "Labyrinth des Schreckens (Einzelspieler)"
+  },
+  "9027": {
+    "fr": "Noyau de Manaya (difficile)",
+    "en": "Manaya's Core (Hard)",
+    "ger": "Manayas Herz (schwierig)"
+  },
+  "9716": {
+    "fr": "Croiseur céleste l'Opiniâtre",
+    "en": "Sky Cruiser Endeavor",
+    "ger": "Himmelskreuzer Sturmflotte"
+  },
+  "9031": {
+    "fr": "Repaire d'Akasha (donjon des épreuves)",
+    "en": "Akasha's Trial",
+    "ger": "Akashas Versteck (Dungeon der Prüfungen)"
+  },
+  "9768": {
+    "fr": "Temple sanglant de Dkurion",
+    "en": "Shadow Sanguinary",
+    "ger": "Durions Bluttempel"
+  },
+  "9024": {
+    "fr": "Temple de Kaprima",
+    "en": "Fane of Kaprima",
+    "ger": "Tempel von Kaprima"
+  },
+  "9824": {
+    "fr": "Temple de Kaprima (1 personne)",
+    "en": "Fane of Kaprima (Solo)",
+    "ger": "Tempel von Kaprima (Einzelspieler)"
+  },
+  "3203": {
+    "fr": "[Immortalis] Arène du courroux",
+    "en": "Forbidden Arena [Nightmare Undying Warlord]",
+    "ger": "[Immortalis] Wutarena"
+  },
+  "3002": {
+    "fr": "Manoir sinistre (solo)",
+    "en": "Sinestral Manor (Solo)",
+    "ger": "Anwesen der Arglist (Einzelspieler)"
+  },
+  "9981": {
+    "fr": "Sanctuaire effondré",
+    "en": "Velik's Sanctuary (Hard)",
+    "ger": "Eingestürzte Zuflucht"
+  },
+  "9010": {
+    "fr": "Commanderie de Kaiator",
+    "en": "Kaiator Command Center",
+    "ger": "Kaiator-Kommandantur"
+  },
+  "9802": {
+    "fr": "Traverse du Nexus",
+    "en": "Nexus Traverse",
+    "ger": "Nexustraverse"
+  },
+  "9028": {
+    "fr": "Laboratoire de Malachai",
+    "en": "Malachai's Lab",
+    "ger": "Malachais Labor"
+  },
+  "9064": {
+    "fr": "Chambre en fusion",
+    "en": "Molten Chamber",
+    "ger": "Schmelzkammer"
+  },
+  "9071": {
+    "fr": "Tombe des Nécromanciens",
+    "en": "Necromancer Tomb",
+    "ger": "Nekromantenkrypta"
+  },
+  "9069": {
+    "fr": "Souvenirs de la Forteresse de Raqnan",
+    "en": "Echoes of Aranea",
+    "ger": "Erinnerungen der Raqnanfestung"
+  },
+  "3202": {
+    "fr": "Résidence des commandants (difficile)",
+    "en": "Draakon Arena (Hard)",
+    "ger": "Kommandantenstätte (schwierig)"
+  },
+  "3003": {
+    "fr": "Refuge des cultistes (solo)",
+    "en": "Cultists' Refuge (Solo)",
+    "ger": "Zuflucht der Kultisten (Einzelspieler)"
+  },
+  "9821": {
+    "fr": "2e niveau de la Forteresse de Raqnan",
+    "en": "Dakuryon's Sanctum",
+    "ger": "2. Ebene der Raqnanfestung"
+  },
+  "9886": {
+    "fr": "Pic de l'effroi : niveaux supérieurs",
+    "en": "Dreadspire: Upper Levels",
+    "ger": "Spitze der Furcht: Obere Etagen"
+  },
+  "9871": {
+    "fr": "Tombe du nécromancien (1 personne)",
+    "en": "Necromancer Tomb (Solo)",
+    "ger": "Nekromantenkrypta (Einzelspieler)"
+  },
+  "9067": {
+    "fr": "Laboratoire de Verno (difficile)",
+    "en": "Demokron Factory (Hard)",
+    "ger": "Vernos Laboratorium (schwierig)"
+  },
+  "9982": {
+    "fr": "Hall souterrain de Lian (difficile)",
+    "en": "Grotto of Lost Souls (Hard)",
+    "ger": "Lians Untergrundhalle (schwierig)"
+  },
+  "9029": {
+    "fr": "Caveau de Kaprima",
+    "en": "Vault of Kaprima",
+    "ger": "Kaprimas Gruft"
+  },
+  "9950": {
+    "fr": "Passage détruit du royaume des dieux",
+    "en": "Harrowhold",
+    "ger": "Zerstörter Zugang zum Himmelreich der Götter"
+  },
+  "9739": {
+    "fr": "Camp des révolutionnaires",
+    "en": "Red Refuge",
+    "ger": "Revolutionärslager"
+  },
+  "9074": {
+    "fr": "Sanctuaire de la résurrection",
+    "en": "Sanctum of Resurrection",
+    "ger": "Heiligtum der Wiederbelebung"
+  },
+  "3019": {
+    "fr": "Hall souterrain de Lian (difficile, 7 personnes)",
+    "en": "Grotto of Lost Souls (7-person)",
+    "ger": "Lians Untergrundhalle (schwierig, 7 Personen)"
+  },
+  "3037": {
+    "fr": "[Guide] Temple de Bahaar",
+    "en": "Bahaar's Sanctum (Guide)",
+    "ger": "[Hilfe] Bahaars Tempel"
+  },
+  "9014": {
+    "fr": "Poste de Khanovar",
+    "en": "Khanovar Gauntlet",
+    "ger": "Khanovarposten"
+  },
+  "9776": {
+    "fr": "Labyrinthe de la Terreur (difficile)",
+    "en": "Labyrinth of Terror (Hard)",
+    "ger": "Labyrinth des Schreckens (schwierig)"
+  },
+  "9018": {
+    "fr": "Catacombes argones",
+    "en": "Argon Catacombs",
+    "ger": "Argonenkatakomben"
+  },
+  "3201": {
+    "fr": "Nid de Parquina (difficile)",
+    "en": "Gossamer Vault (Hard)",
+    "ger": "Parquinas Nest (schwierig)"
+  },
+  "9053": {
+    "fr": "Gorge de Kezzel (5 personnes)",
+    "en": "Kezzel's Gorge (5-Person)",
+    "ger": "Kezzels Rachen (5er-Schlachtgruppe)"
+  },
+  "9767": {
+    "fr": "Laboratoire de Verno",
+    "en": "Demokron Factory",
+    "ger": "Vernos Laboratorium"
+  },
+  "3028": {
+    "fr": "Hall souterrain de Lian (difficile, Gaide)",
+    "en": "Grotto of Lost Souls (Hard) (Guide)",
+    "ger": "Lians Untergrundhalle (schwierig, Gaide)"
+  },
+  "9756": {
+    "fr": "Espace-temps de Valona",
+    "en": "Timescape",
+    "ger": "Valonas Raumzeit"
+  },
+  "3026": {
+    "fr": "Repaire de Kelsaik",
+    "en": "Corrupted Skynest",
+    "ger": "Kelsaiks Versteck"
+  },
+  "3018": {
+    "fr": "Forteresse de Ténébris (difficile, 7 personnes)",
+    "en": "Dark Reach Citadel (7-person)",
+    "ger": "Tenebrisfestung (schwierig, 7 Personen)"
+  },
+  "9808": {
+    "fr": "Armurerie Sabex",
+    "en": "Sabex Armory",
+    "ger": "Sabexwaffenkammer"
+  },
+  "9889": {
+    "fr": "Refuge des Cultiste (1 personne)",
+    "en": "Cultists' Refuge (Solo)",
+    "ger": "Zuflucht der Kultisten (Einzelspieler)"
+  },
+  "8999": {
+    "fr": "Sanctuaire de Velik",
+    "en": "Velik's Sanctuary",
+    "ger": "Veliks Zuflucht"
+  },
+  "9827": {
+    "fr": "Tiarania",
+    "en": "Stepstone Isle",
+    "ger": "Tiarania"
+  },
+  "9088": {
+    "fr": "Manoir sinistre",
+    "en": "Sinestral Manor",
+    "ger": "Anwesen der Arglist"
+  },
+  "9051": {
+    "fr": "Temple sordide",
+    "en": "Squalid Temple",
+    "ger": "Verwahrloster Tempel"
+  },
+  "9911": {
+    "fr": "Raid de Kelsaik (10 personnes)",
+    "en": "Kelsaik's Raid (10-Person)",
+    "ger": "Kelsaiks Froststurm (10er-Schlachtgruppe)"
+  },
+  "9757": {
+    "fr": "Fournaise d'Archeron",
+    "en": "Akeron's Inferno",
+    "ger": "Archerons Inferno"
+  },
+  "9822": {
+    "fr": "Poste d'écoute archidevan",
+    "en": "Archdeva Listening Post",
+    "ger": "Lauschposten der Erzdevaner"
+  },
+  "3012": {
+    "fr": "Camp d'entraînement de gardiens",
+    "en": "Training Ground",
+    "ger": "Wächter-Trainingslager"
+  },
+  "2504": {
+    "fr": "Campagne, étape 4 : Salle des machines de la Forteresse de Berak",
+    "en": "Campaign Stage 4 - Black Core Engine Room",
+    "ger": "Kampagne – Stage 4 - Maschinenraum der Berakfestung"
+  },
+  "9017": {
+    "fr": "Phare du soleil",
+    "en": "Lighthouse of the Sun",
+    "ger": "Leuchtturm der Sonne"
+  },
+  "9056": {
+    "fr": "Espace-temps de Valona (difficile)",
+    "en": "Timescape (Hard)",
+    "ger": "Valonas Raumzeit (schwierig)"
+  },
+  "9078": {
+    "fr": "Pic de Suryati",
+    "en": "Suryati's Peak",
+    "ger": "Suryatis Gipfel"
+  },
+  "9016": {
+    "fr": "Falaises de l'Île de l'Aube",
+    "en": "Island of Dawn Clifftops",
+    "ger": "Klippen der Insel der Dämmerung"
+  },
+  "9743": {
+    "fr": "Wonderholme (10 personnes)",
+    "en": "Wonderholme (10-Person)",
+    "ger": "Wunderholm (10er-Schlachtgruppe)"
+  },
+  "3204": {
+    "fr": "Rêve paralytique de Rukmia (difficile)",
+    "en": "Catalepticon (Hard)",
+    "ger": "Rukmias Traumparalyse (schwierig)"
+  },
+  "9054": {
+    "fr": "Ascension bathyssale (difficile)",
+    "en": "Bathysmal Rise (Hard)",
+    "ger": "Untiefen von Bathysmal (schwierig)"
+  },
+  "9760": {
+    "fr": "Cuirassé de Kalivan",
+    "en": "Kalivan's Dreadnaught",
+    "ger": "Kalivans Kriegsgaleere"
+  },
+  "9036": {
+    "fr": "Repaire de Karascha",
+    "en": "Karascha's Lair",
+    "ger": "Karaschas Unterschlupf"
+  },
+  "9068": {
+    "fr": "Temple sanglant de Dkurion (difficile)",
+    "en": "Shadow Sanguinary (Hard)",
+    "ger": "Durions Bluttempel (schwierig)"
+  },
+  "9089": {
+    "fr": "Refuge des Cultistes",
+    "en": "Cultists' Refuge",
+    "ger": "Zuflucht der Kultisten"
+  },
+  "9880": {
+    "fr": "Sceau d'Adstringo (1 personne)",
+    "en": "Sigil Adstringo (Solo)",
+    "ger": "Siegel von Adstringo (Einzelspieler)"
+  },
+  "3024": {
+    "fr": "Couveuse d'Arkarp",
+    "en": "Azart Hatchery",
+    "ger": "Arkarp-Brutstätte"
+  },
+  "9083": {
+    "fr": "Terrain des épreuves",
+    "en": "Breaching Grounds",
+    "ger": "Gelände des Durchbruchs"
+  },
+  "9810": {
+    "fr": "Prison de Lakan",
+    "en": "Lakan's Prison",
+    "ger": "Lakans Gefängnis"
+  },
+  "9094": {
+    "fr": "Jardin céleste de Saleron",
+    "en": "Saleron's Sky Garden",
+    "ger": "Salerons Himmelsgarten"
+  },
+  "9860": {
+    "fr": "Cuirassé de Kalivan (facile)",
+    "en": "Kalivan's Challenge",
+    "ger": "Kalivans Kriegsgaleere (leicht)"
+  },
+  "9969": {
+    "fr": "Forteresse de Lilitas (difficile)",
+    "en": "Lilith's Keep (Hard)",
+    "ger": "Lilitasfestung (schwierig)"
+  },
+  "9040": {
+    "fr": "Place de Velika",
+    "en": "Velika Plaza",
+    "ger": "Platz von Velika"
+  },
+  "3008": {
+    "fr": "Labyrinthe de la terreur (solo)",
+    "en": "Labyrinth of Terror (Solo)",
+    "ger": "Labyrinth des Schreckens (Einzelspieler)"
+  },
+  "9759": {
+    "fr": "Île délaissée (difficile)",
+    "en": "Forsaken Island (Hard)",
+    "ger": "Verlassene Insel (schwierig)"
+  },
+  "9077": {
+    "fr": "Désert de Batu",
+    "en": "Batu Desert",
+    "ger": "Wüste Batu"
+  },
+  "9508": {
+    "fr": "Monde intérieur",
+    "en": "Soulscape",
+    "ger": "Innenwelt"
+  },
+  "9503": {
+    "fr": "Résidence du généralissime",
+    "en": "Federation Commander Residence",
+    "ger": "Residenz des Oberbefehlshabers"
+  },
+  "9713": {
+    "fr": "Clairière dérobée",
+    "en": "Ghillieglade",
+    "ger": "Tarnlichtung (Premium)"
+  },
+  "3031": {
+    "fr": "Zone nucléique",
+    "en": "Outer Core District",
+    "ger": "Kernzone"
+  },
+  "9505": {
+    "fr": "Salle de banquet de Velika (difficile)",
+    "en": "Ruined Velika Banquet",
+    "ger": "Velika-Banketthalle (schwierig)"
+  },
+  "9063": {
+    "fr": "Autel du corbeau",
+    "en": "Raven Altar",
+    "ger": "Rabenaltar"
+  },
+  "9754": {
+    "fr": "Ascension bathyssale",
+    "en": "Bathysmal Rise",
+    "ger": "Untiefen von Bathysmal"
+  },
+  "2102": {
+    "fr": "Prison de l'abîme du Marécage de Viridian",
+    "en": "Cliffside Prison",
+    "ger": "Abgrundgefängnis des Viridian-Morasts"
+  },
+  "9795": {
+    "fr": "",
+    "en": "Crucible of Fame",
+    "ger": ""
+  },
+  "9037": {
+    "fr": "Pont du Nexus",
+    "en": "Tainted Gorge Bridge",
+    "ger": "Brücke über den Verdorbenen Schlund"
+  },
+  "9007": {
+    "fr": "Autel caché",
+    "en": "Hidden Shrine",
+    "ger": "Verborgener Schrein"
+  },
+  "9826": {
+    "fr": "Cave de la Forteresse de Raqnan",
+    "en": "Vaelsiar Chambers",
+    "ger": "Keller der Raqnanfestung"
+  },
+  "9809": {
+    "fr": "Catacombes de Macellarius",
+    "en": "Macellarius Catacombs",
+    "ger": "Fleischerkatakomben"
+  },
+  "9828": {
+    "fr": "Village des gardiens",
+    "en": "Shadetree",
+    "ger": "Dorf der Wächter"
+  },
+  "3103": {
+    "fr": "[Aeternia] Arène du courroux",
+    "en": "Forbidden Arena [Undying Warlord]",
+    "ger": "[Aeternia] Wutarena"
+  },
+  "9042": {
+    "fr": "Quartier général de Velika",
+    "en": "Velika Headquarters",
+    "ger": "Velika-Hauptquartier"
+  },
+  "9727": {
+    "fr": "Noyau de Manaya",
+    "en": "Manaya's Core",
+    "ger": "Manayas Herz"
+  },
+  "9781": {
+    "fr": "Sanctuaire de Velik",
+    "en": "Velik's Sanctuary",
+    "ger": "Veliks Zuflucht"
+  },
+  "9711": {
+    "fr": "L'Abcès (difficile)",
+    "en": "The Abscess (Hard)",
+    "ger": "Der Abszess (schwierig)"
+  },
+  "9013": {
+    "fr": "Aiguille de cyasma",
+    "en": "Cyasma Spire",
+    "ger": "Cyasmaspitze"
+  },
+  "9507": {
+    "fr": "Monde des dragons",
+    "en": "Dragon's Landing",
+    "ger": "Drachenwelt"
+  },
+  "9710": {
+    "fr": "Prison de Lakan (difficile)",
+    "en": "Broken Prison",
+    "ger": "Lakans Gefängnis (schwierig)"
+  },
+  "2105": {
+    "fr": "Résidence des commandants (solo)",
+    "en": "Kalligar's Arena (Solo)",
+    "ger": "Kommandantenstätte (Einzelspieler)"
+  },
+  "9022": {
+    "fr": "Chambre de la gloire",
+    "en": "Vault of Glory",
+    "ger": "Gewölbe des Ruhms"
+  },
+  "9726": {
+    "fr": "Corpus argon (difficile)",
+    "en": "Argon Corpus (Hard)",
+    "ger": "Argonenkorpus (schwierig)"
+  },
+  "9804": {
+    "fr": "Kelsaik's Nest_For Japan Tournaments",
+    "en": "Kelsaik's Nest_For Japan Tournaments",
+    "ger": "Kelsaik's Nest_For Japan Tournaments"
+  },
+  "3206": {
+    "fr": "Site d'exécution sanglant",
+    "en": "Crimson Killing Grounds",
+    "ger": "Blutiger Richtplatz"
+  },
+  "9072": {
+    "fr": "Labyrinthe d'or",
+    "en": "Golden Labyrinth",
+    "ger": "Goldenes Labyrinth"
+  },
+  "3017": {
+    "fr": "Abîme d'Antaros (difficile, 7 personnes)",
+    "en": "Antaroth's Abyss (7-person)",
+    "ger": "Antaros-Abgrund (schwierig, 7 Personen)"
+  },
+  "2530": {
+    "fr": "Camp d'entraînement pour héros",
+    "en": "Hero Training Ground",
+    "ger": "Heldentrainingslager"
+  },
+  "9073": {
+    "fr": "Tour d'Ébène",
+    "en": "Ebon Tower",
+    "ger": "Ebenholzturm"
+  },
+  "9075": {
+    "fr": "Nid de Kelsaik",
+    "en": "Kelsaik's Nest",
+    "ger": "Kelsaiks Nest"
+  },
+  "3027": {
+    "fr": "[Combattant immortel] Arène du courroux",
+    "en": "Forbidden Arena [Hagufna]",
+    "ger": "[Unsterblicher Kämpfer] Wutarena"
+  },
+  "9059": {
+    "fr": "Île délaissée",
+    "en": "Forsaken Island",
+    "ger": "Verlassene Insel"
+  },
+  "9750": {
+    "fr": "Bord du précipice (10 personnes)",
+    "en": "Rift's Edge",
+    "ger": "Rand des Abgrunds (10 Spieler)"
+  },
+  "3034": {
+    "fr": "Hangar du RK-9 (difficile)",
+    "en": "Rampaging RK-9 Kennel",
+    "ger": "RK-9 Hangar (schwierig)"
+  },
+  "9002": {
+    "fr": "Fontaine de Shara",
+    "en": "Fountain of Shara",
+    "ger": "Brunnen von Shara"
+  },
+  "3036": {
+    "fr": "Croiseur céleste (difficile)",
+    "en": "Sky Cruiser (Hard)",
+    "ger": "Himmelskreuzer (schwierig)"
+  },
+  "3005": {
+    "fr": "Labyrinthe d'or (solo)",
+    "en": "Golden Labyrinth (Solo)",
+    "ger": "Goldenes Labyrinth (Einzelspieler)"
+  },
+  "9046": {
+    "fr": "Oasis maudite",
+    "en": "Accursed Oasis",
+    "ger": "Verfluchte Oase"
+  },
+  "9833": {
+    "fr": "Gorge du Wyrm",
+    "en": "Wyrmgorge",
+    "ger": "Würmlingsklamm"
+  },
+  "9939": {
+    "fr": "Camp des révolutionnaires terrifiant",
+    "en": "Red Refuge (Hard)",
+    "ger": "Furchteinflößendes Revolutionärslager"
+  },
+  "9829": {
+    "fr": "Tiaran l'Arbre",
+    "en": "Tiaran the Sorrow Tree",
+    "ger": "Tiaran, der Baum"
+  },
+  "9888": {
+    "fr": "Manoir sinistre (1 personne)",
+    "en": "Sinestral Manor (Solo)",
+    "ger": "Anwesen der Arglist (Einzelspieler)"
+  },
+  "9066": {
+    "fr": "Roulette de Demoroth",
+    "en": "Demon's Wheel",
+    "ger": "Demoroths Roulette"
+  },
+  "3126": {
+    "fr": "Repaire de Kelsaik (difficile)",
+    "en": "Corrupted Skynest (Hard) Entrance",
+    "ger": "Kelsaiks Versteck (schwer)"
+  },
+  "9818": {
+    "fr": "Energia Celo",
+    "en": "Energia Celo",
+    "ger": "Energia Celo"
+  },
+  "3025": {
+    "fr": "Couveuse d'Arkarp (difficile)",
+    "en": "Azart Hatchery (Hard)",
+    "ger": "Arkarp-Brutstätte (schwierig)"
+  },
+  "9885": {
+    "fr": "Pic de l'effroi",
+    "en": "Dreadspire",
+    "ger": "Spitze der Furcht"
+  },
+  "3007": {
+    "fr": "Jardin céleste de Saleron (solo)",
+    "en": "Saleron's Sky Garden (Solo)",
+    "ger": "Salerons Himmelsgarten (Einzelspieler)"
+  },
+  "9093": {
+    "fr": "Repaire d'Akasha",
+    "en": "Akasha's Hideout",
+    "ger": "Akashas Versteck"
+  },
+  "9894": {
+    "fr": "Jardin céleste de Saleron (1 personne)",
+    "en": "Saleron's Sky Garden (Solo)",
+    "ger": "Salerons Himmelsgarten (Einzelspieler)"
+  },
+  "9970": {
+    "fr": "Ruines de Lachelitas (difficile)",
+    "en": "Ruinous Manor (Hard)",
+    "ger": "Lachelitas-Ruine (schwierig)"
+  },
+  "9025": {
+    "fr": "Temple de Balder",
+    "en": "Balder's Temple",
+    "ger": "Balders Tempel"
+  },
+  "9070": {
+    "fr": "Plateau trompeur",
+    "en": "Manglemire",
+    "ger": "Mogelplateau"
+  },
+  "3033": {
+    "fr": "Nid de Parquina (difficile, guide)",
+    "en": "Gossamer Vault (Hard) (Guide)",
+    "ger": "Parquinas Nest (schwierig, Hilfe)"
+  },
+  "2106": {
+    "fr": "Rêve paralytique de Rukmia (solo)",
+    "en": "Catalepticon (Solo)",
+    "ger": "Rukmias Traumparalyse (Einzelspieler)"
+  },
+  "9043": {
+    "fr": "Wonderholme (difficile) (10 personnes)",
+    "en": "Wonderholme (Hard) (10-Person)",
+    "ger": "Wunderholm (schwierig) (10er-Schlachtgruppe)"
+  },
+  "9081": {
+    "fr": "Terrain d'Entraînement",
+    "en": "Training Grounds",
+    "ger": "Ausbildungsgelände"
+  },
+  "9047": {
+    "fr": "Salle des fêtes de la Moisson",
+    "en": "Harvest Festival Hall",
+    "ger": "Erntedankfestsaal"
+  },
+  "9872": {
+    "fr": "Labyrinthe doré (1 personne)",
+    "en": "Golden Labyrinth (Solo)",
+    "ger": "Goldenes Labyrinth (Einzelspieler)"
+  }
+}
